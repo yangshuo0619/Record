@@ -6,3 +6,10 @@
 2、文本相似度算法
   https://www.cnblogs.com/liangxiaxu/archive/2012/05/05/2484972.html
 ```
+## AIUI本地语法
+```
+1、识别语法分享--在线语法和离线语法编写指南！
+  http://bbs.xfyun.cn/forum.php?mod=viewthread&tid=7595
+2、离线命令词识别
+  https://www.xfyun.cn/services/commandWord
+```
