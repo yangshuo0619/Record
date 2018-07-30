@@ -13,3 +13,8 @@
 2、离线命令词识别
   https://www.xfyun.cn/services/commandWord
 ```
+## ros 串口绑定
+```
+1、在ubuntu上，绑定usb串口的几种方式（udev）
+  https://blog.csdn.net/walleva96/article/details/78347612
+```
