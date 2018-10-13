@@ -12,4 +12,6 @@
   http://bbs.xfyun.cn/forum.php?mod=viewthread&tid=7595
 2、离线命令词识别
   https://www.xfyun.cn/services/commandWord
+3、串口协议
+  https://aiui.xfyun.cn/access_docs/aiui-sdk/smart_doc/%E4%B8%B2%E5%8F%A3SDK.html#aiui串口协议
 ```
