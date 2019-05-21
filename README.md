@@ -15,3 +15,7 @@
 3、串口协议
   https://aiui.xfyun.cn/access_docs/aiui-sdk/smart_doc/%E4%B8%B2%E5%8F%A3SDK.html#aiui串口协议
 ```
+## 编程教程
+'''
+c语言中文网 http://c.biancheng.net
+'''
