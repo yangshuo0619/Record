@@ -24,9 +24,19 @@ c语言中文网 http://c.biancheng.net
 1、https://jiweibo.github.io/StereoBM/
 2、https://blog.csdn.net/robin1987z/article/details/51188161
 ```
-
 ## 绘图
-
 ```
 https://matplotlib.org/
+```
+## 计算机视觉方向
+
+```
+viso2 : https://github.com/srv/viso2
+书籍：计算机视觉中的数学方法、计算机视觉中的多视图几何
+```
+## 机器学习
+
+```
+https://www.bilibili.com/video/av33208345?from=search&seid=17275448357873414087
+https://study.163.com/course/introduction/1004570029.htm
 ```
