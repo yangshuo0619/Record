@@ -32,7 +32,7 @@ https://matplotlib.org/
 
 ```
 viso2 : https://github.com/srv/viso2
-书籍：计算机视觉中的数学方法、计算机视觉中的多视图几何
+书籍：计算机视觉中的数学方法、计算机视觉中的多视图几何(Multiple View Geometry)
 ```
 ## 机器学习
 
